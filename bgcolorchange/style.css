@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#btn {
+    display: block;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 40%;
+    border-radius: 10px;
+    ;
+    
+  }
